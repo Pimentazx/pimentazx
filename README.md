@@ -102,7 +102,7 @@ Plataforma educacional desenvolvida como projeto acadêmico, com arquitetura sep
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="left">
   <img
     height="180"
     src="https://github-readme-stats.vercel.app/api?username=pimentazx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"

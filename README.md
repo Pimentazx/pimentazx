@@ -115,6 +115,6 @@ Plataforma educacional desenvolvida como projeto acadêmico, com arquitetura sep
 
 💼 [LinkedIn](https://linkedin.com/in/guilhermedespimentel )
 
-🌐 [Portfólio](https://pimentazx.github.io/Portfolio/)
+🌐 [Portfólio](https://guilhermepimentel.vercel.app/)
 
 📧 [E-mail](mailto:gui.pimentel2004@gmail.com)
